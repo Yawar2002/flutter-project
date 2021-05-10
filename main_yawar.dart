@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: Text("Yawar Ali"),
-        ),
-    );
+        ), //Scaffold
+    ); //MaterialApp
   }
 }
